@@ -59,11 +59,10 @@ This task is challenging because:
 
 ---
 ## Contributors
-
 This project was developed by:
 
-- Ahmed Gaabi
-- Mouaffak Yassine Haddar
+- Ahmed Gaabi ([ahmed10420](https://github.com/ahmed10420))
+- Mouaffak Yassine Haddar ([MouaffakYassineHaddar](https://github.com/MouaffakYassineHaddar))
 
 ## Dataset
 
